@@ -1,0 +1,9 @@
+{
+  "files.associations": {
+    "PgPrinc.C": "cpp",
+    "SeparerUniversite.C": "cpp",
+    "StudentStorage.C": "cpp",
+    "GestionUniversite_ProgramPrinc.C": "cpp",
+    "StockEtudiant_PgPrincipale.C": "cpp"
+  }
+}
